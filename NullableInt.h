@@ -38,8 +38,6 @@
 * File: NullableInt.h
 * Last edited on September 13, 2020 6:01 PM EDT 
 * GNU GCC Compiler: G++ C++11
-* BU ID: U29987528
-* EC500: Principles of Software at Scale HW0 Fall 2020, Professor Ari Trachtenberg 
 *
 * @author	Ismaeel AlAlawi
 * @version	%I%, %G%
